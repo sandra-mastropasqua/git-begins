@@ -7,3 +7,4 @@ Les 3 commandes de push :
 - git add
 - git commit -m
 - git push 
+Pour pull il faut utiliser "git pull"
